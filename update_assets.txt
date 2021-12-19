@@ -1,0 +1,42 @@
+[FILENAMES]
+Open=DQXLauncher.exe
+Save=DQXLauncher_modified.exe
+Log=DQXLauncher.log
+[COMMANDS]
+-modify launcher_assets/english/PNG/PNG172.png, PNG, 172
+-modify launcher_assets/english/PNG/PNG173.png, PNG, 173
+-modify launcher_assets/english/PNG/PNG174.png, PNG, 174
+-modify launcher_assets/english/PNG/PNG175.png, PNG, 175
+-modify launcher_assets/english/PNG/PNG176.png, PNG, 176
+-modify launcher_assets/english/PNG/PNG177.png, PNG, 177
+-modify launcher_assets/english/PNG/PNG178.png, PNG, 178
+-modify launcher_assets/english/PNG/PNG179.png, PNG, 179
+-modify launcher_assets/english/PNG/PNG180.png, PNG, 180
+-modify launcher_assets/english/PNG/PNG181.png, PNG, 181
+-modify launcher_assets/english/PNG/PNG182.png, PNG, 182
+-modify launcher_assets/english/PNG/PNG183.png, PNG, 183
+-modify launcher_assets/english/PNG/PNG184.png, PNG, 184
+-modify launcher_assets/english/PNG/PNG185.png, PNG, 185
+-modify launcher_assets/english/PNG/PNG186.png, PNG, 186
+-modify launcher_assets/english/PNG/PNG187.png, PNG, 187
+-modify launcher_assets/english/PNG/PNG190.png, PNG, 190
+-modify launcher_assets/english/PNG/PNG191.png, PNG, 191
+-modify launcher_assets/english/PNG/PNG192.png, PNG, 192
+-modify launcher_assets/english/PNG/PNG193.png, PNG, 193
+-modify launcher_assets/english/PNG/PNG195.png, PNG, 195
+-modify launcher_assets/english/PNG/PNG196.png, PNG, 196
+-modify launcher_assets/english/PNG/PNG197.png, PNG, 197
+-modify launcher_assets/english/PNG/PNG198.png, PNG, 198
+-modify launcher_assets/english/PNG/PNG202.png, PNG, 202
+-modify launcher_assets/english/PNG/PNG213.png, PNG, 213
+-modify launcher_assets/english/PNG/PNG214.png, PNG, 214
+-modify launcher_assets/english/PNG/PNG219.png, PNG, 219
+-modify launcher_assets/english/PNG/PNG220.png, PNG, 220
+-modify launcher_assets/english/PNG/PNG221.png, PNG, 221
+-modify launcher_assets/english/PNG/PNG222.png, PNG, 222
+-modify launcher_assets/english/PNG/PNG225.png, PNG, 225
+-modify launcher_assets/english/PNG/PNG226.png, PNG, 226
+-modify launcher_assets/english/PNG/PNG232.png, PNG, 232
+-modify launcher_assets/english/Bitmap/Bitmap164.bmp, Bitmap, 164
+-modify launcher_assets/english/Dialog/res/dialogs.res ,,,
+-modify launcher_assets/english/String_Table/res/string_tables.res ,,,

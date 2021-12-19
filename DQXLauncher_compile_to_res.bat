@@ -1,0 +1,2 @@
+.\ResourceHacker.exe -open launcher_assets\english\Dialog\rc\dialogs.rc -save launcher_assets\english\Dialog\res\dialogs.res -action compile -log NUL
+.\ResourceHacker.exe -open launcher_assets\english\String_Table\rc\string_tables.rc -save launcher_assets\english\String_Table\res\string_tables.res -action compile -log NUL

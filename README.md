@@ -10,6 +10,7 @@ This contains:
 **I do not own these assets or work for DQX and am purely doing this to be able to understand the client in my native language (English).**
 
 # How to use
+
 - Install [ResourceHacker](http://www.angusj.com/resourcehacker/)
 - Copy all contents of this repository into the installed `ResourceHacker` folder
 - Copy your `DQXLauncher.exe` into the `ResourceHacker` folder
@@ -17,6 +18,10 @@ This contains:
 - Back up your old launcher and copy `DQXLauncher_modified.exe` into your DQX folder
 - Rename `DQXLauncher_modified.exe` to `DQXLauncher.exe`
 - Enjoy
+
+# Credit
+
+Thanks @Blodh for updating the assets into English.
 
 # Scripts
 
